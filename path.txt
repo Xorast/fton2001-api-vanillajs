@@ -1,0 +1,27 @@
+{ "coord":   { "lon":-3.7,
+               "lat":40.42},
+  "weather": [ {"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],
+  "base":    "stations",
+  "main":    { "temp":290.72,
+               "feels_like":286.8,
+               "temp_min":288.15,
+               "temp_max":292.15,
+               "pressure":1018,
+               "humidity":34
+             },
+   "visibility":10000,
+   "wind":{"speed":3.1,"deg":180},
+   "clouds":{"all":73},
+   "dt":1582909596,
+   "sys": { "type":1,
+                        "id":6443,
+                        "country":"ES",
+                        "sunrise":1582872676,
+                        "sunset":1582913040},
+                        "timezone":3600,
+                        "id":3117735,
+                        "name":"Madrid",
+                        "cod":200 }
+
+data.main.temp
+data.sys.country
